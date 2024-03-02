@@ -22,7 +22,6 @@ Este projeto consiste em um dashboard interativo para monitorar e analisar a ina
 ![Dashboard Screenshot](Screenshot%20Dashboard.png)
 *Captura de tela do Dashboard.*
 
-![Dashboard Screenshot 1](screenshots Dashboard.png)
 
 
 
