@@ -1,4 +1,4 @@
-# DashboardInadimplencia
+
 # Dashboard de Inadimplência
 
 Este projeto consiste em um dashboard interativo para monitorar e analisar a inadimplência. Ele fornece uma visão visual e intuitiva dos dados relacionados à inadimplência, permitindo uma fácil interpretação e tomada de decisões informadas.
