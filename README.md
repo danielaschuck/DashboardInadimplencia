@@ -14,7 +14,7 @@ Este projeto consiste em um dashboard interativo para monitorar e analisar a ina
 
 
 1. **Acesso ao Dashboard:**
-   - Abra seu navegador e clone esse repositorio para ter acesso ao arquivo pbi.
+   - Abra seu terminal e clone esse repositorio para ter acesso ao arquivo pbi ou baixe o arquivo direto do diretorio.
 
 ## Capturas de Tela
 
